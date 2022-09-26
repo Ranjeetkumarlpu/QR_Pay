@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>upi payment</title>
+</head>
+<body>
+<h1>Welcome to Payment</h1>
+<form action="/action_page.php">
+<label for="html">Order Id:</label><br><br>
+<input type="text" id="order" name="fav_language" value=""><br><br>
+<label for="css">Amount:</label><br><br>
+<input type="number" name="amount" value=""><br><br>
+<label for="css">Instruction:</label><br><br>
+<input type="image" src="https://moveboldfoundation.org/Donate/QR_Code.jpeg" alt="Submit" width="275" height="275">
+<br><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
